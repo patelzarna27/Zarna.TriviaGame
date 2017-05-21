@@ -1,0 +1,54 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+  font-size: 25px;
+}
+
+.answer:hover {
+ background-color: black;
+ color: white;
+}
+
+
+.answer {
+  font-size: 35px;
+  height: 60px;
+  color: black;
+  padding-left: 10px;
+  padding-right: 5px;
+  background-color: white;
+  border-radius: 4px;
+  
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  
+}
